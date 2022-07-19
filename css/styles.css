@@ -1,5 +1,6 @@
 * {
     background-color: rgb(163, 108, 108);
+    cursor: url(../images/cursor.png), pointer;
 }
 
 body {
@@ -21,8 +22,10 @@ h1 {
 
 h2 {
     text-align: center;
+    color: wheat;
 }
-#sub {
+
+h3 {
     color: wheat;
     text-align: justify;
 }
@@ -31,7 +34,7 @@ h2 {
     text-align: left;
 }
 
-img {
+[src] {
     margin: 5px;
     border-style: solid;
 }
