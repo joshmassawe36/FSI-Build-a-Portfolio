@@ -1,6 +1,6 @@
 * {
     background-color: rgb(163, 108, 108);
-    cursor: url(../images/cursor.png), pointer;
+    cursor: url(../images/cursor.png) pointer;
 }
 
 body {
@@ -16,13 +16,14 @@ body {
     
 h1 {
     color: rgba(0, 0, 0, 0.737);
-    font-style: italic;
+    font-weight: 700;
     text-align: center;
 }
 
 h2 {
     text-align: center;
     color: wheat;
+    font-weight: 400;
 }
 
 h3 {
@@ -39,3 +40,6 @@ h3 {
     border-style: solid;
 }
 
+.contact {
+  font-style: italic;
+}
