@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(163, 108, 108);
+    text-align: justify;
+    color: black;
+    border: 3.5px double white;
+    border-style: groove;
+    margin: 10px;
+    scroll-behavior: smooth;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+
+#title {
+    color: rgba(0, 0, 0, 0.737);
+    font-style: italic;
+
+}
+
+#sub {
+    color: wheat;
+    text-align: justify;
+}
+
+#left {
+    text-align: left;
+}
+
+img {
+    margin: 5px;
+    border-style: solid;
+}
